@@ -82,15 +82,11 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/robyrawat/NewsHub.git
-   cd NewsHub
    ```
 
 2. **Get your NewsData.io API Key**
    - Visit [NewsData.io](https://newsdata.io) and create a free account
-   - Copy your API key from the dashboard
-
-
-   ```
+   
 
 3. **Build and Run**
    ```bash
@@ -99,14 +95,16 @@
    Or open in Android Studio and click ▶️ Run
 
 ## 📸 **Screenshots**
+<img width="360" height="800" alt="Screenshot_20250924_175720" src="https://github.com/user-attachments/assets/b2421fdb-7551-4eec-864a-18427b9ba345" />
 
-<img width="720" height="1600" alt="Screenshot_20250924_164207" src="https://github.com/user-attachments/assets/1b799a22-41d9-4821-a772-21da89555fc4" /> <img width="720" height="1600" alt="Screenshot_20250924_164154" src="https://github.com/user-attachments/assets/cc7f3f42-529f-4122-a66e-26c76b1c5a84" />
+<img width="360" height="800" alt="Screenshot_20250924_175742" src="https://github.com/user-attachments/assets/0404aa3c-a57f-4f6a-92c2-83d7fc899675" />
 
-<img width="720" height="1600" alt="Screenshot_20250924_164140" src="https://github.com/user-attachments/assets/c0fdedef-8d83-4c9d-b94d-2ae3fc03f745" /> <img width="720" height="1600" alt="Screenshot_20250924_164129" src="https://github.com/user-attachments/assets/68990ad6-1969-41b5-b6d7-7fc765cd5e81" />
+<img width="360" height="800" alt="Screenshot_20250924_175756" src="https://github.com/user-attachments/assets/c7634ba6-b08d-425b-8c4c-93b85979f4b2" />
+<img width="360" height="800" alt="Screenshot_20250924_175804" src="https://github.com/user-attachments/assets/889a8d14-7438-44d4-8f99-cb1f28237bea" />
+<img width="360" height="800" alt="Screenshot_20250924_175811" src="https://github.com/user-attachments/assets/23492073-a8ab-49a2-a4ec-2ced56f855b2" /><img width="360" height="800" alt="Screenshot_20250924_175818" src="https://github.com/user-attachments/assets/26c1617f-65b8-4710-bc8d-e420ede32de8" />
+<img width="360" height="800" alt="Screenshot_20250924_175837" src="https://github.com/user-attachments/assets/22950324-2d4a-4cfa-bd72-f5b7412da6c0" />
+<img width="360" height="800" alt="Screenshot_20250924_175908" src="https://github.com/user-attachments/assets/7229eea4-7500-479b-ad7c-6d3e3ef970a1" />
 
-<img width="720" height="1600" alt="Screenshot_20250924_164112" src="https://github.com/user-attachments/assets/b9a44192-0af7-41dd-91a3-a2719fce5062" /> <img width="720" height="1600" alt="Screenshot_20250924_164307" src="https://github.com/user-attachments/assets/27693a3c-7d16-4f1d-bb70-01ec093c0908" />
-
-<img width="720" height="1600" alt="Screenshot_20250924_164547" src="https://github.com/user-attachments/assets/5f769ddf-01e0-4724-98ac-c7abf09ddbf6" />
 
 
 ## 🎯 **Use Cases**
