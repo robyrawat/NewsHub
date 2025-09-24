@@ -89,14 +89,10 @@
    - Visit [NewsData.io](https://newsdata.io) and create a free account
    - Copy your API key from the dashboard
 
-3. **Configure API Key**
-   - Open `app/src/main/java/com/example/composedemo/util/Constants.kt`
-   - Replace `YOUR_API_KEY_HERE` with your actual API key:
-   ```kotlin
-   const val NEWS_API_KEY = "your_actual_api_key_here"
+
    ```
 
-4. **Build and Run**
+3. **Build and Run**
    ```bash
    ./gradlew assembleDebug
    ```
