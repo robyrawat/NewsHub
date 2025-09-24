@@ -81,7 +81,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/NewsHub.git
+   git clone https://github.com/robyrawat/NewsHub.git
    cd NewsHub
    ```
 
