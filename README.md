@@ -164,6 +164,9 @@ We welcome contributions! Here's how you can help:
 <div align="center">
   
   **⭐ Star this repository if you found it helpful!**
+
+  ### 🔎 Keywords
+android, kotlin, jetpack-compose, material-design, mvvm, hilt, room-database, retrofit, news-app, mobile-app, rss-reader, offline-support, bookmarks, multi-language, dark-mode, material-you, clean-architecture, dependency-injection, news-aggregator, open-source, compose-ui, android-app
   
   Made with ❤️ for the Android community
   
