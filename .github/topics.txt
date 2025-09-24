@@ -1,0 +1,3 @@
+# Android News App 📱
+android, news, jetpack-compose, kotlin, material-design, mvvm, hilt, retrofit, room, coroutines, pull-to-refresh, offline-reading, bookmarks, trending-news, multi-language, newsdata-api, modern-ui, android-development, open-source, material3, news-reader, real-time-news, mobile-app, android-studio, gradle
+

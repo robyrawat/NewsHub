@@ -1,40 +1,43 @@
-# Screenshots
+## 📱 NewsHub - Screenshots & Features
 
-This folder contains app screenshots for documentation purposes.
+### 🏠 Home Screen
+- **Material 3 Design**: Beautiful, modern interface following Google's latest design guidelines
+- **Pull-to-Refresh**: Intuitive swipe-down gesture to refresh news content
+- **Multiple View Modes**: Switch between List, Grid, Image Overlay, and Card Stack views
+- **Real-time Updates**: Latest news from 1000+ sources worldwide
 
-## Required Screenshots for README:
+### 🔥 Trending Section
+- **Hot Topics**: Discover what's trending globally
+- **Ranking System**: See the most popular articles ranked by engagement
+- **Visual Hierarchy**: Beautiful cards with trending indicators
+- **Quick Access**: Fast navigation to trending content
 
-1. **news_feed.png** - Main news feed screen
-2. **article_details.png** - Article detail view
-3. **categories.png** - Categories screen
-4. **settings.png** - Settings screen with theme options
-5. **app_icon.png** - App icon (120x120px)
+### 🔖 Bookmarks & Offline Reading
+- **Smart Bookmarking**: Save articles for offline reading
+- **Reading History**: Track your reading patterns
+- **Offline Mode**: Read cached articles without internet
+- **Organization Tools**: Sort and manage your saved articles
 
-## Guidelines for Screenshots:
+### 🌍 Multi-Language Support
+- **10+ Languages**: English, Hindi, Arabic, Chinese, Japanese, Korean, Russian, Turkish, Dutch, and more
+- **Localized Content**: Get news relevant to your region
+- **RTL Support**: Perfect support for right-to-left languages like Arabic
+- **Cultural Adaptation**: Content tailored to local contexts
 
-- Use high-quality device frames (preferably Pixel devices)
-- Ensure consistent lighting and theme
-- Show real content, not placeholder text
-- Use 1080x1920 resolution or higher
-- Save as PNG format for best quality
+### 🎨 Customization Options
+- **Dark/Light Theme**: Automatic or manual theme switching
+- **Dynamic Colors**: Adaptive color schemes that match your device
+- **Typography**: Optimized text rendering for all screen sizes
+- **Accessibility**: Full support for screen readers and accessibility tools
 
-## Tools for Creating Screenshots:
+### ⚡ Performance Features
+- **Smart Caching**: Efficient storage of up to 200 articles
+- **Lazy Loading**: Smooth scrolling with on-demand content loading
+- **Memory Optimization**: Optimized for devices with limited RAM
+- **Network Resilience**: Graceful handling of poor network conditions
 
-- **Android Studio**: Device screenshots via emulator
-- **Figma**: For creating mockups and frames
-- **Screenshot Framer**: For adding device frames
-- **Canva**: For editing and enhancing images
+---
 
-## Screenshot Naming Convention:
+> 📸 **Screenshots coming soon!** We're working on capturing the beautiful UI in action.
 
-```
-screen_name.png
-- news_feed.png
-- article_details.png
-- categories.png
-- bookmarks.png
-- settings.png
-- splash_screen.png
-```
-
-Remember to update the README.md file paths once you add the actual screenshots!
+> 🎥 **Demo video** will be available at launch to showcase all features.

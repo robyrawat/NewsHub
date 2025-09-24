@@ -4,8 +4,8 @@
         android:shortcutShortLabel="@string/shortcut_new_article_short_label"
         android:shortcutLongLabel="@string/shortcut_new_article_long_label"
         android:shortcutDisabledMessage="@string/shortcut_disabled_message">
-        <intent android:action="android.intent.action.VIEW" android:targetPackage="com.example.composedemo"
-            android:targetClass="com.example.composedemo.MainActivity">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="com.example.newshub"
+            android:targetClass="com.example.newshub.MainActivity">
             <!-- Add extra data for your intent if needed -->
             <extra android:name="shortcut_action" android:value="new_article" />
         </intent>

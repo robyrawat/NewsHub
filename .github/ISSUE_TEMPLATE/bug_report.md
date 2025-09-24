@@ -1,8 +1,8 @@
 ---
-name: Bug Report
-about: Create a report to help us improve
+name: 🐛 Bug Report
+about: Create a report to help us improve NewsHub
 title: '[BUG] '
-labels: ['bug']
+labels: ['bug', 'needs-triage']
 assignees: ''
 
 ---
@@ -11,12 +11,12 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 ## 📱 Device Information
-- **Device**: [e.g. Samsung Galaxy S21]
-- **OS**: [e.g. Android 12]
+- **Device**: [e.g. Pixel 7, Samsung Galaxy S23]
+- **Android Version**: [e.g. Android 13, API 33]
 - **App Version**: [e.g. 1.0.0]
+- **Architecture**: [e.g. arm64-v8a, x86_64]
 
 ## 🔄 Steps to Reproduce
-Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -32,10 +32,15 @@ A clear and concise description of what actually happened.
 If applicable, add screenshots to help explain your problem.
 
 ## 📋 Additional Context
-Add any other context about the problem here.
+- Does this happen every time or only sometimes?
+- Did this work in a previous version?
+- Any error messages in logs?
+- Network conditions when bug occurred?
 
-## 🔍 Logs
-If applicable, add relevant logs or error messages:
+## 🔍 Logs (if available)
 ```
-Paste logs here
+Paste any relevant logs here
 ```
+
+## ✨ Possible Solution
+If you have ideas on how to fix this, please share them.
