@@ -5,8 +5,11 @@ plugins {
     alias(libs.plugins.kotlin.kapt)
     alias(libs.plugins.dagger.hilt.android)
     id("kotlin-parcelize")
-    alias(libs.plugins.kotlin.serialization) // Updated line}
+    alias(libs.plugins.kotlin.serialization)
 }
+
+// Load keystore properties for release signing
+
 android {
     namespace = "com.newshub.android"
     compileSdk = 36
@@ -24,10 +27,20 @@ android {
     buildTypes {
         release {
             isMinifyEnabled = false
+        }
+        release {
+            isMinifyEnabled = true
+            isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+          
+
+            // Play Store optimization
+            isDebuggable = false
+            isJniDebuggable = false
+            renderscriptOptimLevel = 3
         }
     }
     compileOptions {
